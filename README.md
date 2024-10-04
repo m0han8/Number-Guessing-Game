@@ -21,3 +21,4 @@ This is a simple *Number Guessing Game* where the player has to guess a number b
 - *HTML*: Structure of the game.
 - *CSS*: Styling the game interface.
 - *JavaScript*: Game logic and interactivity.
+![WhatsApp Image 2024-10-04 at 23 37 14_7ff7a033](https://github.com/user-attachments/assets/f5cd211d-4232-4a58-b9e4-9b1cfdd0eede)
